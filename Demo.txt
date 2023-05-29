@@ -1,0 +1,2 @@
+Demo
+destination path 'git-demo' already exists and is not an empty directory.s
