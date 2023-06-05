@@ -1,3 +1,6 @@
 Demo
 destination path 'git-demo' already exists and is not an empty directory.s
 She made June Schedual yesterdayy
+
+New day
+New idea
